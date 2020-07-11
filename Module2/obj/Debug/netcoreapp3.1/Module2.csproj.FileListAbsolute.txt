@@ -1,0 +1,13 @@
+C:\Users\splan\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.exe
+C:\Users\splan\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.deps.json
+C:\Users\splan\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.json
+C:\Users\splan\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.dev.json
+C:\Users\splan\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.dll
+C:\Users\splan\source\repos\Module2\Module2\bin\Debug\netcoreapp3.1\Module2.pdb
+C:\Users\splan\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csprojAssemblyReference.cache
+C:\Users\splan\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfoInputs.cache
+C:\Users\splan\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfo.cs
+C:\Users\splan\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CoreCompileInputs.cache
+C:\Users\splan\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.dll
+C:\Users\splan\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.pdb
+C:\Users\splan\source\repos\Module2\Module2\obj\Debug\netcoreapp3.1\Module2.genruntimeconfig.cache

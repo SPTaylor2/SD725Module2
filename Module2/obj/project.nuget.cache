@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBRLdO2O71+MCqU0JfqZqmje0SX6klxwTZZBIQk68tdo+Zc8cNpi5A+IrKYKlkv1V3RSDbQSio467rUxvzLNBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\splan\\source\\repos\\Module2\\Module2\\Module2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\splan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
